@@ -12,9 +12,10 @@
     "type": "git",
     "url": "git+https://github.com/goitacademy/parcel-project-template.git"
   },
-  "keywords": [],
+   "keywords": [],
   "author": "Alexander Repeta <alexander.repeta@gmail.com>",
   "license": "ISC",
+  "type": "module",
   "bugs": {
     "url": "https://github.com/goitacademy/parcel-project-template/issues"
   },
